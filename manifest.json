@@ -1,0 +1,24 @@
+{
+  "name": "Jeu du Taquin",
+  "short_name": "Taquin",
+  "description": "Sliding Puzzle \u2014 Jeu du Taquin",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2A3520",
+  "background_color": "#F5F0E8",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

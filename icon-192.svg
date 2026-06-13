@@ -1,0 +1,28 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="40" fill="#F5F0E8"/>
+  <rect x="12" y="12" width="192" height="192" rx="40" fill="#2A3520" opacity=".05"/>
+  <!-- 3x3 grid -->
+  <rect x="14" y="14" width="52" height="52" rx="12" fill="url(#a)"/>
+  <rect x="70" y="14" width="52" height="52" rx="12" fill="url(#b)"/>
+  <rect x="126" y="14" width="52" height="52" rx="12" fill="url(#a)"/>
+  <rect x="14" y="70" width="52" height="52" rx="12" fill="url(#c)"/>
+  <rect x="70" y="70" width="52" height="52" rx="12" fill="url(#d)"/>
+  <rect x="126" y="70" width="52" height="52" rx="12" fill="url(#c)"/>
+  <rect x="14" y="126" width="52" height="52" rx="12" fill="url(#b)"/>
+  <rect x="70" y="126" width="52" height="52" rx="12" fill="url(#a)"/>
+  <rect x="126" y="126" width="52" height="52" rx="12" fill="none" stroke="#C8C0A8" stroke-width="4" stroke-dasharray="8,5"/>
+  <text x="40" y="48" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">1</text>
+  <text x="96" y="48" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">2</text>
+  <text x="152" y="48" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">3</text>
+  <text x="40" y="104" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">4</text>
+  <text x="96" y="104" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">5</text>
+  <text x="152" y="104" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">6</text>
+  <text x="40" y="160" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">7</text>
+  <text x="96" y="160" text-anchor="middle" fill="white" font-family="Georgia" font-size="28" font-weight="900">8</text>
+  <defs>
+    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#92B4D0"/><stop offset="100%" stop-color="#1A7AC4"/></linearGradient>
+    <linearGradient id="b" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#E8C96A"/><stop offset="100%" stop-color="#C4952A"/></linearGradient>
+    <linearGradient id="c" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#6B8C3E"/><stop offset="100%" stop-color="#3A6040"/></linearGradient>
+    <linearGradient id="d" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#C4542A"/><stop offset="100%" stop-color="#A03820"/></linearGradient>
+  </defs>
+</svg>
